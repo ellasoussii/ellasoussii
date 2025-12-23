@@ -35,18 +35,17 @@ Recherche active d’un **stage PFE** (début 2026) en BI, analyse de données o
 
 ## 🛠️ Projets Phares
 
-## 🛠️ Projets Phares
-
 | Projet | Description | Technologies | Lien |
 |--------|------------|-------------|------|
-| **Sorbe Unico** | Site web vitrine interactif pour un café (menu, offres, ambiance) avec design moderne et navigation fluide | HTML, CSS, JavaScript, Figma | |
-| **Parmastock** | Application full-stack de gestion de stock (authentification, CRUD produits, historique des mouvements) | PHP, MySQL, HTML/CSS, JavaScript | |
-| **Jeux éducatifs pour enfants autistes** | Suite de jeux interactifs (mémoire, associations son-image, couleurs) avec niveaux et feedback multisensoriel | HTML, CSS, JavaScript, Figma | |
-| **Prédiction de survie Titanic (ML)** | Analyse exploratoire et modèle prédictif basé sur les facteurs démographiques et socio-économiques | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | (#) |
+| **Sorbe Unico** | Site web vitrine interactif pour un café (menu, offres, ambiance) avec design moderne et navigation fluide | HTML, CSS, JavaScript, Figma | [GitHub](#) |
+| **Parmastock** | Application full-stack de gestion de stock (authentification, CRUD produits, historique des mouvements) | PHP, MySQL, HTML/CSS, JavaScript | [GitHub](#) |
+| **Jeux éducatifs pour enfants autistes** | Suite de jeux interactifs (mémoire, associations son-image, couleurs) avec niveaux et feedback multisensoriel | HTML, CSS, JavaScript, Figma |  |
+| **Prédiction de survie Titanic (ML)** | Analyse exploratoire et modèle prédictif basé sur les facteurs démographiques et socio-économiques | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | [GitHub](#) |
 | **Analyse de Ventes & Profits** | Tableau de bord interactif pour visualiser les performances commerciales | Power BI | [GitHub](#) |
 | **Gestion des Commandes** | Application web CRUD avec mise à jour dynamique (AJAX) | PHP, MySQL, JavaScript, AJAX | [GitHub](#) |
 | **App Contacts Java** | Application desktop de gestion de contacts avec stockage local | Java (Swing), SQLite | [GitHub](#) |
 
+---
 
 ---
 ## 🧠 Compétences Techniques
