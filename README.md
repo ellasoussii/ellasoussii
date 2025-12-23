@@ -12,7 +12,7 @@ Recherche active d’un **stage PFE** (début 2026) en BI, analyse de données o
 
 📍 Menzel Jemil, Bizerte | 🇹🇳 Tunisie  
 📧 [ellasoussi03@gmail.com](mailto:ellasoussi03@gmail.com) | 📱 +216 52 263 692  
-🔗 [LinkedIn](https://linkedin.com/in/EllaSoussi) | 🐙 [GitHub](https://github.com/ellasoussii)
+🐙 [GitHub](https://github.com/ellasoussii)
 
 ---
 
